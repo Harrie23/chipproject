@@ -1,0 +1,5 @@
+//https://en.wikipedia.org/wiki/3D_projection
+
+9 pins to color vga
+2 pins to sync vga
+Chip enable ram, chip enable rom, Serial input, Serial output, Serial clk (5 pins)
