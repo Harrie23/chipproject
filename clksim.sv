@@ -1,4 +1,4 @@
-module(
+module clksim(
     input logic clk,
     input logic rst,
     output logic simclk
